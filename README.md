@@ -1,4 +1,4 @@
-# 20BCS063_LOGESH-KRISHNA.R
+# Smart Safety Monitoring System for Sewage Workers
 MINI-PROJECT
 
 "Smart saftey monitoring system for Sewage workers"
